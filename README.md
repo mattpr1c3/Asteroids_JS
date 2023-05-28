@@ -1,2 +1,2 @@
-# Asteroids_JS
-Asteroids recreation using Javascript
+<!-- # Asteroids_JS
+Asteroids recreation using Javascript -->
